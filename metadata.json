@@ -1,0 +1,8 @@
+{
+  "name": "Sparky: AI Companion Robot",
+  "description": "A high-fidelity interactive companion robot powered by Gemini Live API, featuring real-time voice, vision, and a sleek animated interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
